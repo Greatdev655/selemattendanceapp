@@ -135,6 +135,8 @@ function getAttendancePercent(studentID, classId){
   }
 }
 
+
+// testing 
 console.log(getAttendancePercent("STU001","class_001"))
 console.log(getAttendancePercent("STU002","class_001"))
 console.log(getAttendancePercent("STU001","class_999"))
